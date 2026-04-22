@@ -20,11 +20,7 @@ The dataset consists of multiple CSV files representing different banking operat
 * Transactions – transaction records
 * Loans – loan details including interest rates and status
 * Credit Cards – credit card usage data
-* ATMs – ATM-related information
-
----
-
-## 🔍 Analysis Highlights
+* ATMs – ATM-related informations
 
 ### 📊 Accounts
 
